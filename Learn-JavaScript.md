@@ -43,3 +43,11 @@
 
 #### 深入理解Json
 >[JSON：如果你愿意一层一层剥开我的心，你会发现...这里水很深——深入理解JSON](https://segmentfault.com/a/1190000008832185)
+
+#### undefined和null的区别
+>[undefined和null的区别](http://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
+
+#### 深入理解JavaScript编程中的同步与异步机制
+>[JavaScript的优势之一是其如何处理异步代码。异步代码会被放入一个事件队列，等到所有其他代码执行后才进行，而不会阻塞线程。](http://blog.csdn.net/u013063153/article/details/52457307)
+
+
