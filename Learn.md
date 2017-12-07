@@ -20,22 +20,22 @@
 在对前端知识点梳理的过程中，有一些觉得比较好的文章，在这里做个简单的统计。
 ## 知识梳理
 
-###Js核心篇
+### Js核心篇
 
-####Js闭包
+#### Js闭包
 
 > 闭包（closure）是Javascript语言的一个难点，也是它的特色，很多高级应用都要依靠闭包实现。 
 >  [阮一峰的网络日志 学习Javascript闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
-####理解this
+#### 理解this
 > [换个思路理解Javascript中的this](https://segmentfault.com/a/1190000010328752)  我觉得蛮酷的
 
-####Js面向对象编程
+#### Js面向对象编程
 > [JavaScript七种非常经典的创建对象的方式，他们也各有优缺点](https://xxxgitone.github.io/2017/06/10/JavaScript%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%83%E7%A7%8D%E6%96%B9%E5%BC%8F/)
 
 > [JavaScript六种继承方式](https://xxxgitone.github.io/2017/06/12/JavaScript%E5%85%AD%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/)
 
-####Js设计模式
+#### Js设计模式
 > [Js设计模式](http://www.cnblogs.com/tugenhua0707/p/5198407.html)
 
 #### Js性能优化
