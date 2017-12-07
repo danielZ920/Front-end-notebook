@@ -21,9 +21,10 @@
 ## 知识梳理
 
 ### Js核心篇
+#### Js正则表达式
+>[正则表达式-菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
 
 #### Js闭包
-
 > 闭包（closure）是Javascript语言的一个难点，也是它的特色，很多高级应用都要依靠闭包实现。 
 >  [阮一峰的网络日志 学习Javascript闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
@@ -31,6 +32,8 @@
 > [换个思路理解Javascript中的this](https://segmentfault.com/a/1190000010328752)  我觉得蛮酷的
 
 #### Js面向对象编程
+>[三张图搞懂JavaScript的原型对象与原型链](https://www.cnblogs.com/shuiyi/p/5305435.html)
+
 > [JavaScript七种非常经典的创建对象的方式，他们也各有优缺点](https://xxxgitone.github.io/2017/06/10/JavaScript%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%83%E7%A7%8D%E6%96%B9%E5%BC%8F/)
 
 > [JavaScript六种继承方式](https://xxxgitone.github.io/2017/06/12/JavaScript%E5%85%AD%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/)
@@ -49,5 +52,24 @@
 
 #### 深入理解JavaScript编程中的同步与异步机制
 >[JavaScript的优势之一是其如何处理异步代码。异步代码会被放入一个事件队列，等到所有其他代码执行后才进行，而不会阻塞线程。](http://blog.csdn.net/u013063153/article/details/52457307)
+
+#### 关于call()、apply()、bind()
+> [Function.prototype.call()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+[Function.prototype.apply()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+[Function.prototype.bind()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+
+#### 模块化编程
+> [模块化编程-阮一峰](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
+
+#### 深拷贝和浅拷贝
+> [javascript中的深拷贝和浅拷贝？](https://www.zhihu.com/question/23031215)
+
+#### JavaScript-原生Array对象方法详解
+> [JavaScript-原生Array对象方法详解](http://www.jianshu.com/p/38ab9c687e93)
+
+#### JavaScript中常见的字符串操作函数及用法
+>[JavaScript中常见的字符串操作函数及用法](https://www.cnblogs.com/ranzige/p/4475338.html)
+
+
 
 
