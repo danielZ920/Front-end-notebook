@@ -17,7 +17,8 @@
 [TOC]
 
 
-在对前端知识点梳理的过程中，有一些觉得比较好的文章，在这里做个简单的统计。
+在对前端面试知识点梳理的过程中，有一些觉得比较好的文章，在这里做个简单的统计。
+
 ## 知识梳理
 
 ### Js核心篇
@@ -71,5 +72,38 @@
 >[JavaScript中常见的字符串操作函数及用法](https://www.cnblogs.com/ranzige/p/4475338.html)
 
 
+--------------------------------------------------------
+
+### css参考手册
+>[css参考手册](http://css.doyoe.com/)
+-------------------
+
+#### 盒子模型
+>[盒子模型的理解](https://segmentfault.com/a/1190000004528408)
+
+#### css选择器
+>[选择器-菜鸟教程](http://www.runoob.com/cssref/css-selectors.html)
+>[从CSS盒子模型说起](https://segmentfault.com/a/1190000010154024)
+
+#### css优先级&权重分析
+>[css优先级&权重分析](http://www.cnblogs.com/xugang/archive/2010/09/24/1833760.html)
+
+#### 深入了解 CSS3 新特性
+>[深入了解 CSS3 新特性](https://www.ibm.com/developerworks/cn/web/1202_zhouxiang_css3/)
+
+### Flex布局完全教程(重点！！！)
+>[Flex布局完全教程](https://segmentfault.com/a/1190000008823763)
+
+#### 浏览器兼容性部分  [见参考手册](http://css.doyoe.com/)
+
+#### CSS秘密花园： Sticky footers
+>[CSS秘密花园： Sticky footers](https://www.w3cplus.com/css3/css-secrets/sticky-footers.html)
+
+#### less
+>[less中文网](http://lesscss.cn/)
+>[一种 动态 样式 语言.](http://www.bootcss.com/p/lesscss/)
+
+#### 关于stylus
+>[关于stylus](https://www.npmjs.com/package/stylus)
 
 
