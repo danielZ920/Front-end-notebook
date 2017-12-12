@@ -64,4 +64,7 @@ AngularJS 可以构建一个单一页面应用程序（SPAs：Single Page Applic
 * **[ES6](http://es6.ruanyifeng.com/)**
 
 ## 相关阅读
-
+* **[REM](https://github.com/hbxeagle/rem/blob/master/README.md)**
+* **[玩转git](https://github.com/xirong/my-git/blob/master/how-to-use-github.md)**
+* **[javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)**
+* **[http协议](http://www.cnblogs.com/ranyonsue/p/5984001.html)**
