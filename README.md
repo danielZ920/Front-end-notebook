@@ -20,10 +20,27 @@
 ### angular
 * **[angularjs1](http://www.runoob.com/angularjs/angularjs-tutorial.html)**  -AngularJS 通过新的属性和表达式扩展了 HTML。
 AngularJS 可以构建一个单一页面应用程序（SPAs：Single Page Applications）.
+
 * **[angular2](http://www.runoob.com/angularjs2/angularjs2-tutorial.html)**  - Angular2 是 Angular 1.x 的升级版本，性能上得到显著的提高，能很好的支持 Web 开发组件。
+
 * **[angular4](https://angular.cn/)** - 一套框架，多种平台移动端 & 桌面端
+
 * **[angular中文社区](http://www.angularjs.cn/)**
 
 ### vue
+
+* **[vue2](https://cn.vuejs.org/v2/guide/)**
+
+* **[vue-router](https://router.vuejs.org/zh-cn/)** - vue官方维护的一套配合vue.js的路由插件。
+
+* **[vuex](https://vuex.vuejs.org/zh-cn/)** - vue官方维护的一套控制vue数据流的插件。
+
+* **[vue-resource](https://github.com/pagekit/vue-resource)**
+
+* **[axios](https://github.com/axios/axios)**
+
+### react
+
+
 
 
