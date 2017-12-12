@@ -16,6 +16,8 @@
 * **[javascript](http://www.w3school.com.cn/b.asp)** - JavaScript 是世界上最流行的脚本语言，本教程将详细讲解javascript的标准语法和应用。
 
 ## 进阶
+### jquery
+* **[jquery基本原理](http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/index.html)**
 
 ### angular
 * **[angularjs1](http://www.runoob.com/angularjs/angularjs-tutorial.html)**  -AngularJS 通过新的属性和表达式扩展了 HTML。
@@ -28,7 +30,6 @@ AngularJS 可以构建一个单一页面应用程序（SPAs：Single Page Applic
 * **[angular中文社区](http://www.angularjs.cn/)**
 
 ### vue
-
 * **[vue2](https://cn.vuejs.org/v2/guide/)**
 
 * **[vue-router](https://router.vuejs.org/zh-cn/)** - vue官方维护的一套配合vue.js的路由插件。
@@ -40,7 +41,26 @@ AngularJS 可以构建一个单一页面应用程序（SPAs：Single Page Applic
 * **[axios](https://github.com/axios/axios)**
 
 ### react
+* **[react](https://reactjs.org/tutorial/tutorial.html)**
+
+* **[react入门](http://www.ruanyifeng.com/blog/2015/03/react.html)**
+
+## 高级
+
+### Node
+* **[node](http://www.runoob.com/nodejs/nodejs-tutorial.html)**
+
+* **[node入门](http://www.runoob.com/nodejs/nodejs-tutorial.html)**
+
+* **[饿了么大前端 Node.js 进阶教程](http://cnodejs.org/topic/58ad76db7872ea0864fedfcc)**
 
 
+### webpack
+* **[webpack](https://doc.webpack-china.org/)**
+
+* **[webpack入门](https://segmentfault.com/a/1190000006178770)**
+
+### ES6
+* **[ES6](http://es6.ruanyifeng.com/)**
 
 
